@@ -95,7 +95,8 @@ Ou étape par étape :
 
 ---
 
-##  Structure du projet
+### 📁 Structure du projet
+
 Image_to_Cluster/
 ├── packer/
 │   └── nginx.pkr.hcl       # Configuration Packer
@@ -105,7 +106,7 @@ Image_to_Cluster/
 │   ├── deployment.yml       # Deployment Kubernetes
 │   └── service.yml          # Service Kubernetes
 ├── index.html               # Page web déployée
-├── Makefile                 # Automatisation
+├── Makefile                 # Automatisation complète
 └── README.md                # Documentation
 
 ---
